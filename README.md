@@ -82,6 +82,13 @@ This Power BI dashboard provides a detailed analysis of **Facebook ad campaign p
 | `Facebook_Ad_Campaign_Analysis.pbix` | Main Power BI dashboard file |
 | `dashboard.png` | Screenshot of the dashboard |
 
+---
+
+## 🖼️ Dashboard Screenshot
+
+<p align="center">
+  <img src="./dashboard.png" alt="Facebook Ad Campaign Analysis Power BI Dashboard" width="800"/>
+</p>
 
 ---
 
